@@ -1,6 +1,0 @@
-this is first of devops training
-its inly testing purpous
-ADDING 3 RD LINE
-FOURTH LINE
-FIFTH LIINR
-sample.txt
