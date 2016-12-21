@@ -3,6 +3,10 @@ its inly testing purpous
 ADDING 3 RD LINE
 FOURTH LINE
 FIFTH LIINR
+<<<<<<< HEAD
 adding last line
 last
 last
+=======
+sample.txt
+>>>>>>> 4c7cb7cb6b3a00183a8186b2bf9804a63fafa64b
